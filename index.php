@@ -29,7 +29,7 @@ endif;
 	<div class="container">
 		<div class="card shadow mb-4 mt-4">
 	            <div class="card-header py-3">
-	                <h3 class="m-0 font-weight-bold text-primary">Data Mahasiswa STMIK AUB Surakarta</h3>
+	                <h3 style="color:red;font-family:sans" class="m-0 font-weight-bold text-primary">Data Mahasiswa STMIK AUB Surakarta</h3>
 	            </div>
 	        <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
 		        <div class="card-body">
